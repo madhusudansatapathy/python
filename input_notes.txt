@@ -1,0 +1,48 @@
+We have input function to take data from user
+
+input() -> 10   10.5 "ratan"
+
+whatever the data we will provide, it will take as string.
+to take input as int or float we need to mention the particular data types. 
+
+num1= input("Enter first num:")
+num2= input("Enter second num:")
+add= num1+num2
+print ("Addition:",add)
+
+
+num1= int(input("Enter first num:"))
+num2= int(input("Enter second num:"))
+add= num1+num2
+print ("Addition:",add)
+
+
+num1= float(input("Enter first num:"))
+num2= float(input("Enter second num:"))
+add= num1+num2
+print ("Addition:",add)
+
+eid= int(input("Enter the employee ID: "))
+ename= string(input("Enter employee number: "))
+esal=float(input("Enter employee salary: "))
+
+print("employee ID: ")
+print("employee name: ")
+print("employee Salary: ")
+
+
+Formatting Data :
+
+1. %
+int   float    string
+%d    %g  %f     %s   
+
+2. {}
+
+
+
+
+
+
+
+

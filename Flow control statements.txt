@@ -1,0 +1,14 @@
+Flow control statements: 
+
+1. Conditional
+    if
+    if-else
+    elif
+2. Iteration
+    For
+    while
+
+3. transfer
+    break
+    continue
+
